@@ -8,4 +8,4 @@ A site that randomly fetches a quote and displays it along with the person's pic
 All this using Ajax, and of course the layout to make the creation more harmonious.
 
 
-[link :](https://manonbracke.github.io/ajax-simple-web-service-request/) 
+[link](https://manonbracke.github.io/ajax-simple-web-service-request/) 
