@@ -1,7 +1,7 @@
 const quote = document.getElementById("quote");
 const author = document.getElementById("author");
 const authorPic = document.querySelector("img");
-const authorNbr = document.getElementsByClassName("total")[0]
+const authorNbr = document.getElementsByClassName("total")[0] // précisé du quel on parle
 const btn = document.getElementById("run");
 
 function getQuote() {
